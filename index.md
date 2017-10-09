@@ -3,6 +3,8 @@
 
 ## General
 
+[KeePass](https://keepass.info/)
+
 [VirtualBox](https://www.virtualbox.org/)
 
 ### Linux
