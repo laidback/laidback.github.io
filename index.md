@@ -1,20 +1,20 @@
+# Awesome Open Source
+A curated list of amazingly awesome open source repositories.
 
-# Working Tools
-
-## General
-
-[KeePass](https://keepass.info/)
-
-[VirtualBox](https://www.virtualbox.org/)
-
-### Linux
-
-### Windows
-
-[GitBash](https://git-for-windows.github.io/)
-
-## Development
-
-[IntelliJ](https://www.jetbrains.com/idea/)
-
-
+* [VMWare](http://vmware.github.io/)
+* [Cisco](http://cisco.github.io/)
+* [Microsoft](https://opensource.microsoft.com/)
+* [Google](https://github.com/google)
+* [Facebook](https://code.facebook.com/projects)
+* [Netflix](http://netflix.github.io/#/)
+* [Apache Foundation](https://github.com/apache) [Apache Project List](https://projects.apache.org/projects.html)
+* [Linux Foundation](https://www.linuxfoundation.org/projects/)
+* [Cern Ops Github](https://github.com/cernops)
+* [Cern Opendata Github](https://github.com/cernopendata) [Cern Opendata Portal](http://opendata.cern.ch/)
+* [Cern Github](https://github.com/cern) [Cern Portal](https://kt.cern/technologies)
+* [NASA Github](https://github.com/nasa)
+* [ESA Github](https://github.com/esa)
+* [Lightbend](https://www.lightbend.com/open-source-core)
+* [OpenStack](https://github.com/openstack)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [Kubernetes](https://kubernetes.io/)
