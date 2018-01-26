@@ -1,6 +1,3 @@
-- [ ] can i put markdown onto the page
-- [x] yes i guess
-
 # Awesome Open Source
 A not curated list of amazingly awesome open source repositories.
 
