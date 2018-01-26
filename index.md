@@ -1,5 +1,5 @@
-(x) can i put markdown onto the page
-(/) yes i guess
+[x] can i put markdown onto the page
+[/] yes i guess
 
 # Awesome Open Source
 A not curated list of amazingly awesome open source repositories.
